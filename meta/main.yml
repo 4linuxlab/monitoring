@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   role_name: monitoring
-  author: sua_conta_github
+  author: 4linuxlab
   description: Monitoramento da Aplicação Dexter
   company: 4Linux
   license: GPLv3
